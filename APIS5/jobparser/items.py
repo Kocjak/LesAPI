@@ -8,5 +8,8 @@ import scrapy
 
 class JobparserItem(scrapy.Item):
     # define the fields for your item here like:
-    # name = scrapy.Field()
+    name = scrapy.Field()
+    genre = scrapy.Field()
+    rating = scrapy.Field()
+    url = scrapy.Field()
     pass
