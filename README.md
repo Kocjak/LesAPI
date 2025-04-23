@@ -1,2 +1,5 @@
 # LesAPI
-![image](https://github.com/user-attachments/assets/88a57a66-056b-4bc5-b06f-1f8840e406b3)
+
+В пятом задании итоги сваливаются в файлик movies.csv
+
+В шестом задании фотки сваливаются в папку photos, логируются записи получаемые в item в файле photos.csv
